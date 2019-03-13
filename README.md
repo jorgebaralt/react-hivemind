@@ -16,9 +16,9 @@ Use in bash CLI:
 
 # Showcase
 
-[![Edit react-png-flipcard](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/mw23o99wx?fontsize=14)
+[![Edit react-hivemind](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/pk3zox43yj?fontsize=14)
 
-[Example on CodeSandbox](https://mw23o99wx.codesandbox.io/)
+[Example on CodeSandbox](https://pk3zox43yj.codesandbox.io/)
 
 [Website use Example](jorgebaralt.com)
 In the website is used to keep track of the width, and decide when to render a Hamburger menu (for mobile or width < 800)
@@ -28,7 +28,7 @@ In the website is used to keep track of the width, and decide when to render a H
 > Hivemind is a Context Provider and Store component that provides many
 > features.
 
-[![NPM](https://img.shields.io/npm/v/react-png-flipcard.svg)](https://www.npmjs.com/package/react-png-flipcard) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-png-flipcard.svg)](https://www.npmjs.com/package/react-hivemind) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Instructions
 
