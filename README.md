@@ -50,17 +50,11 @@ In the website is used to keep track of the width, and decide when to render a H
 | `isNotMobile` | callback function that gets called if the browser is not opened on mobile |
 | `onAppStart`  | callback function that gets called when the app start                     |
 
+Check usage for examples
+
 ## Usage
 
 ### For React.js version ^16.8
-
-#### Uses React Hooks
-
-```jsx
-import FlipCard from 'react-png-flipcard';
-```
-
-### Example
 
 #### setup
 
